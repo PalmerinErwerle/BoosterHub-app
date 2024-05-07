@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">BoosterHub</string>
+    <string name="title_activity_main">BoosterHub</string>
+    <string name="package_name">com.boosterhub.app</string>
+    <string name="custom_url_scheme">com.boosterhub.app</string>
+</resources>
