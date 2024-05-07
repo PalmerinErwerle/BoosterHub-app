@@ -1,0 +1,7 @@
+{
+  "name": "BoosterHub-app",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
