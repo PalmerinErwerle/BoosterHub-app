@@ -18,7 +18,7 @@ export class HomePage implements OnInit {
     const browserInstance = this.browser.create(
       this.url,
       '_self',
-      'location=no, hidenavigationbuttons=true, hideurlbar=true, zoom=no'
+      'location=no,zoom=no'
     );
 
     browserInstance.on('exit').subscribe((ev) => {
