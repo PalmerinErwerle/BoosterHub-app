@@ -2,4 +2,4 @@
 
 Android Webview app for BoosterHub.
 
-Made with Ionic & Angular using Cordova InAppBrowser plugin.
+Developed with Ionic & Angular using Cordova InAppBrowser plugin.
